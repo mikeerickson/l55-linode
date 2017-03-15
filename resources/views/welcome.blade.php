@@ -80,7 +80,9 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel 5.5<br>
-                    <h5>Hosted by Digital Ocean</h5>
+                </div>
+                <div>
+                  <h5>Hosted by Digital Ocean</h5>
                 </div>
 
                 <div class="links">
