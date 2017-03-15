@@ -79,10 +79,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 5.5<br>
+                    Laravel 5.5-dev<br>
                 </div>
                 <div>
-                  <h5>Hosted by Digital Ocean</h5>
+                  <h6>Hosted by Digital Ocean</h6>
                 </div>
 
                 <div class="links">
